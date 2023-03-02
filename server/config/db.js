@@ -2,7 +2,7 @@
     File Name: db.js
     Author's Name: Sorada Prathan
     Student ID: 301270677
-    Web App Name:Favourite Books
+    Web App Name:Favourite Book List App
 */
 
 // MongoDB Atlas connection string for a "books229" database

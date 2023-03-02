@@ -2,7 +2,7 @@
     File Name: server.js
     Author's Name: Sorada Prathan
     Student ID: 301270677
-    Web App Name:Favourite Books
+    Web App Name:Favourite Book List App
 */
 
 let app = require('./server/config/app');

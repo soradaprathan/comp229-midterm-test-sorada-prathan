@@ -2,7 +2,7 @@
     File Name: app.js
     Author's Name: Sorada Prathan
     Student ID: 301270677
-    Web App Name:Favourite Books
+    Web App Name:Favourite Book List App
 */
 /* custom JS goes here */
 
