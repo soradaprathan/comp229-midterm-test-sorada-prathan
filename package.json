@@ -25,11 +25,9 @@
     "popper.js": "^1.16.1"
   },
   "engines": {
-    "node": "^10.15.0",
-    "npm": "^6.0.0"
+    "node": "^18.13.0",
+    "npm": "^9.3.0"
   },
-  "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
-  "main": "server.js",
   "devDependencies": {
     "@types/body-parser": "^1.19.0",
     "@types/connect-flash": "0.0.34",
@@ -43,19 +41,21 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
+  "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/soradaprathan/comp229-midterm-test-sorada-prathan.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Sorada Prathan",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/soradaprathan/comp229-midterm-test-sorada-prathan/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/soradaprathan/comp229-midterm-test-sorada-prathan#readme"
 }
